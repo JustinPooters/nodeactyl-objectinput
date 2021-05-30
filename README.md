@@ -1,7 +1,7 @@
 # ✨ nodeactyl-objectinput
 
 This is an add-on to Nodeactyl so that you can use objects as input.<br>
-Credits to [Alhassen](https://alhassan.dev/) for this idea.
+Credits to [Alhassan](https://alhassan.dev/) for this idea.
 
 ## Installation
 
