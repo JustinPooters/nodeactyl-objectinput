@@ -1,0 +1,26 @@
+{
+  "name": "nodeactyl-objectinput",
+  "version": "1.0.0",
+  "description": "This is an add-on to Nodeactyl so that you can use objects as input.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenderMelon/nodeactyl-objectinput.git"
+  },
+  "keywords": [
+    "nodeactyl",
+    "pterodactyl",
+    "object",
+    "input",
+    "object-based"
+  ],
+  "author": "Ruben Uijtdewilligen <ruben.uijtdewilligen07@gmail.com> (rubenuijtdewilligen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RenderMelon/nodeactyl-objectinput/issues"
+  },
+  "homepage": "https://github.com/RenderMelon/nodeactyl-objectinput#readme",
+  "dependencies": {
+    "nodeactyl": "^3.0.1"
+  }
+}
